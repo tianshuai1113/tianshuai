@@ -1,0 +1,2 @@
+--image_dir=C:\Users\tianshuai\Desktop\TS\PyQt5-YOLOv5-master\data1 --det_model_dir=C:\Users\tianshuai\Desktop\TS\PyQt5-YOLOv5-master\output_0625\db_mv3\det_db_inference\Student\  --rec_model_dir=C:\Users\tianshuai\Desktop\TS\PyQt5-YOLOv5-master\output_0625\rec_ppocr_v3_distillation\en_PP-OCRv3_rec\ --rec_char_dict_path=ppocr/utils/combine_rec.txt
+
